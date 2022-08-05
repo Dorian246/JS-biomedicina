@@ -1,0 +1,29 @@
+{
+"apiname": "Biomedicina en queretaro",
+"origin": "Queretaro",
+"create ": 2022,
+"figures" : [
+    { "info":La biomedicina es la disciplina que se encarga de estudiar los aspectos biológicos de la medicina. Para ello, analiza los factores celulares, genéticos, moleculares y bioquímicos del cuerpo humano y las enfermedades que este puede sufrir.
+
+    Por esta razón, la biomedicina emplea una serie de recursos procedentes de otras ramas de conocimiento, tales como la biología, la química, la física y las matemáticas.,
+             
+       "figure":"https://drive.google.com/file/d/1IPkwisYPlG6erz_KD7STUYBBzJ2YqDMt/view?usp=sharing"
+      },
+      { "info":Aunque hay muchas definiciones de este concepto, podríamos decir que la biomedicina es una disciplina que estudia los aspectos biológicos de la medicina, esencialmente a través del análisis de los factores genéticos, celulares, bioquímicos y molecuares del cuerpo humano, así como las enfermedades que potencialmente pueden afectarle.
+
+      De este modo, la biomedicina utiliza recursos y conocimientos provenientes de otras áreas del conocimiento, como la química, la biología, la física e incluso las matemáticas.
+      
+      Todo ello con ambiciosos objetivos como los siguientes:
+      
+      Mejorar la capacidad de diagnóstico de todo tipo de patologías (sobre todo el diagnóstico precoz).
+      Contribuir al diseño de nuevos tratamientos para enfermedades conocidas o de nueva aparición.
+      Participar en el desarrollo de medicamentos más eficaces, de baja toxicidad y con menores efectos secundarios sobre el cuerpo humano.,
+
+       "figure":"https://drive.google.com/file/d/1hiSmBq_d_GNAQR2P8LuVLSkaGatw072U/view?usp=sharing"       
+       },
+
+       {"info":Esta ciencia cuenta con tres importantes pilares que son la ingeniería informática y ciencias de la computación; la electrónica donde se desarrollan circuitos electrónicos para adquirir datos y conocer cómo procesas estos datos para crear soluciones de hardware y software; y las ciencias de la vida que también se conocen como bioquímica, biología, patología, fisiología y genética; por lo que en general podemos decir que los biomédicos preservan y mejoran la calidad de vida de los seres humanos.,
+       "figure":"https://drive.google.com/file/d/15oabBAmjNOwH3rWrrPCTNkWZILUvIt63/view?usp=sharing"
+      }
+    ]
+}
